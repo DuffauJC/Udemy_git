@@ -1,0 +1,27 @@
+1. Créez un dossier "Dashboard".
+
+2. Initalisez un dépôt git.
+
+3. Créez un index.html avec un doctype et un h1 de votre choix.
+
+4. Créez un commit pour sauvegarder ces changements.
+
+5. Créez une branche "api".
+
+6. Créez un fichier app.js dans cette branche.
+
+7. Écrivez une fonction :
+
+function foo(name){
+
+   console.log("Bienvenue", name)
+
+}
+
+8. Faites un commit de ces changements.
+
+9. Fusionner la branche master avec la branche api.
+
+10. Faites en sorte de créer une fusion utilisant la "stratégie récursive".
+
+11. Faites en sorte de créer une fusion provoquant un conflit, puis résolvez-le.

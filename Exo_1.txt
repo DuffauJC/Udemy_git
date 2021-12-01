@@ -1,0 +1,18 @@
+Instructions de l'exercice 1
+I. Exercice Commit.
+
+
+
+1. Créez un dossier "Portfolio".
+
+2. Créez un fichier index.html avec un h1 "Bienvenue sur mon portfolio".
+
+3. Initialisez un dépôt avec Git dans ce dossier.
+
+4. Vérifiez le statut du dépôt avec la commande correspondante.
+
+5. Ajoutez les changements dans la zone de transit.
+
+6. Créez un commit avec la commande nécessaire, et ajoutez-y le message "Mise en place du portfolio".
+
+7. Regardez l'historique de vos commits avec la commande correspondante.
